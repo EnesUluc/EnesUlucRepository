@@ -1,9 +1,8 @@
 # EnesUlucRepository
 
-***Mainde tüm c ve h dosyaları include edince uygulama run code yapınca çalışıyor , main.exe oluşuyor.***
+***When all c and h files are included in the main, the application runs when you make a run code, main.exe is created.***
 
 Description
-
 
 The game starts in a dungeon where a prince is imprisoned and we have four rooms.
 We move on to the next room by killing the enemies in the room in order.

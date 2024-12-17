@@ -1,0 +1,9 @@
+You have progressed great and reached the final level.
+Here is a real monster (THE BOSS)!
+If you can defeat him, you will be free
+and can return to your family.
+GOOD LUCK SUPERHERO:))
+
+Remember, maybe there is a secret power in this room and it will help you to escape...
+
+BOSS --> Health : 60 - Damage : 50

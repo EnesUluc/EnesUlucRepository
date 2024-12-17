@@ -1,0 +1,19 @@
+THE BIRTH OF A HERO!!!
+
+I woke up in a cold and dump room.Everywhere was dark.
+At that moment I heard a voice!!!
+
+-> You were thrown into this dungeon by a dark spirit.
+-> A zombie is waiting for you in this dungeon.
+-> You need to kill the zombie by advancing on it.When you kill it, you will move on to the next room.
+
+And at that moment I remembered everything, if I get out of this dungeon,
+I will meet the princess. She is waiting for me as a prisoner in the last room.
+I have to be very fast...
+
+------------
+DUNGEON ROOM
+------------
+
+Zombie -> Health : 20 - Damage : 25
+Item (Sword) -> Power : 25  Size:10

@@ -1,0 +1,10 @@
+*** NEXT LEVEL ***
+--------------
+POISONOUS ROOM
+--------------
+-> There is a deadly and very powerful snake in this room.
+-> It may be hard to kill him but we trust you!!!
+-> You must gather health before fighting him.
+
+Snake -> Health : 60 - Damage : 50
+Item (+) -> Extra health : 30

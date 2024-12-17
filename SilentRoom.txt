@@ -1,0 +1,14 @@
+
+*** NEXT LEVEL ***
+-------------
+SILENT TEMPLE
+-------------
+
+-> You need to be very quiet in this room.
+-> Secretly take the arrow, approach the skeleton and defeat him.
+-> Good luck bro !!!
+
+*There is a extra health.It will increase your health only 1.*
+
+Skeletor --> Health : 50 - Damage : 30
+Arrow --> Power : 15  Size:15
